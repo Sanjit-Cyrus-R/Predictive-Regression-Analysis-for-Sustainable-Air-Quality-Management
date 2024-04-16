@@ -5,4 +5,6 @@ The importance of Machine Learning in predicting Air Quality Index (AQI) is incr
 ## Proposed Methodology
 Data Selection and Preprocessing -> Calculation of AQI -> Exploratory Data Analysis -> Feature Engineering -> Ensemble - Model building -> Model Hyperparameter tuning
 
+For insights and results of this project refer [Predictive Regression Analysis for Sustainable Air Quality Management presentation](Predictive-Regression-Analysis-for-Sustainable-Air-Quality-Management)
+
 **Note: Due to the huge size of the dataset I am working on running the code in GPU. Right now only model building with XG boost runs with GPU whereas other cells use CPU** 
